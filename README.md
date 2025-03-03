@@ -20,7 +20,7 @@ Responsive Design: Ensure a smooth user experience across devices with an aesthe
 
 Language: Swift, SwiftUI
 
-Libraries & Frameworks:
+# Libraries & Frameworks:
 
 Combine: For handling asynchronous events and state management.
 
@@ -50,4 +50,9 @@ This project serves as a practical assessment of UI/UX design, state management,
 <img src="https://github.com/user-attachments/assets/e463d7aa-89d5-45c6-bab2-c14a80c5e944" alt="Alt Text" style="width:50%; height:10%;">
 <img src="https://github.com/user-attachments/assets/2244c8b8-1ca5-4a00-a19c-f43bfbb295f9" alt="Alt Text" style="width:50%; height:10%;">
 <img src="https://github.com/user-attachments/assets/3c10daa9-6c4e-4b68-b71a-41a46510bd3c" alt="Alt Text" style="width:50%; height:10%;">
+
+
+https://github.com/user-attachments/assets/df18b6e6-54fb-40d1-ad99-404fcd759010
+
+
 
