@@ -6,6 +6,8 @@
 //
 
 import SwiftUI
+import SDWebImageSwiftUI
+import SwiftUI
 
 // MARK: Color Extension
 extension Color {
@@ -84,23 +86,18 @@ struct WebImageView: View {
     var imageURL: String
 
     var body: some View {
-        AsyncImage(url: URL(string: imageURL)) { phase in
-            switch phase {
-            case .empty:
-                ProgressView()
-            case .success(let image):
-                image
+        WebImage(url: URL(string: imageURL))
+            .resizable()
+            .indicator(.activity)
+            .transition(.fade(duration: 0.3))
+            .background(
+                Image(systemName: "person.crop.circle")
                     .resizable()
-                    .transition(.opacity)
-            case .failure:
-                Image("sample")
-                    .resizable()
-//                    .scaledToFill()
-//                    .frame(width: 50, height: 50)
-//                    .foregroundColor(.gray)
-            @unknown default:
-                EmptyView()
-            }
-        }
+                    .scaledToFill()
+                    .frame(width: 50, height: 50)
+                    .foregroundColor(.gray)
+            )
     }
 }
+
+

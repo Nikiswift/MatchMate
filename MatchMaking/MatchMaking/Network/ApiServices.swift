@@ -33,29 +33,34 @@ final class ApiServices: APIServicesProtocol {
     //MARK:  Fetch JSON from a remote API
 
     private func fetchRemoteJSON<T: Decodable>(url: String, model: T.Type) async throws -> T {
+        guard let validURL = URL(string: url) else {
+            throw NetworkError.invalidURL
+        }
         return try await withCheckedThrowingContinuation { continuation in
-            guard let validURL = URL(string: url) else {
-                continuation.resume(throwing: NetworkError.invalidURL)
-                return
-            }
-
             AF.request(validURL, method: .get, headers: ["Content-Type": "application/json"])
-                .validate(statusCode: 200...299) // Ensure successful HTTP status
+                .validate(statusCode: 200...299)
                 .responseDecodable(of: T.self) { response in
                     switch response.result {
                     case .success(let decodedData):
                         continuation.resume(returning: decodedData)
+                        
                     case .failure(let error):
-                        if let afError = error.asAFError, afError.isResponseSerializationError {
-                            continuation.resume(throwing: NetworkError.decodingError)
+                        if let afError = error.asAFError {
+                            if afError.isResponseSerializationError {
+                                continuation.resume(throwing: NetworkError.decodingError)
+                            } else if afError.isSessionTaskError {
+                                continuation.resume(throwing: NetworkError.unknownError)
+                            } else {
+                                continuation.resume(throwing: NetworkError.invalidResponse)
+                            }
                         } else {
-                            continuation.resume(throwing: NetworkError.invalidResponse)
+                            continuation.resume(throwing: NetworkError.unknownError)
                         }
                     }
                 }
         }
     }
-
+    
     
     //MARK: Fetch Local JSON
     private func fetchLocalJSON<T: Decodable>(filename: String, model: T.Type) throws -> T {

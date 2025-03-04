@@ -26,8 +26,7 @@
 		448E02112D75B0DB00A8FD99 /* NetworkConnectionHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E02102D75B0DB00A8FD99 /* NetworkConnectionHelper.swift */; };
 		448E02182D75B69500A8FD99 /* CoreDataServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E02172D75B69500A8FD99 /* CoreDataServices.swift */; };
 		448E021A2D75B90C00A8FD99 /* MateViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 448E02192D75B90C00A8FD99 /* MateViewModel.swift */; };
-		44D584BA2D75E78700932A95 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 44D584B92D75E78700932A95 /* Alamofire */; };
-		44D584BC2D75E78700932A95 /* AlamofireDynamic in Frameworks */ = {isa = PBXBuildFile; productRef = 44D584BB2D75E78700932A95 /* AlamofireDynamic */; };
+		44B393E92D76DD4A00C2A116 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 44B393E82D76DD4A00C2A116 /* Alamofire */; };
 		44D584BF2D75E7B100932A95 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 44D584BE2D75E7B100932A95 /* SDWebImageSwiftUI */; };
 /* End PBXBuildFile section */
 
@@ -47,6 +46,19 @@
 			remoteInfo = MatchMaking;
 		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		44B393E62D76DC9400C2A116 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		448E01C22D71C0EC00A8FD99 /* MatchMaking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MatchMaking.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -79,8 +91,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				44D584BF2D75E7B100932A95 /* SDWebImageSwiftUI in Frameworks */,
-				44D584BA2D75E78700932A95 /* Alamofire in Frameworks */,
-				44D584BC2D75E78700932A95 /* AlamofireDynamic in Frameworks */,
+				44B393E92D76DD4A00C2A116 /* Alamofire in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -227,6 +238,7 @@
 				448E01BE2D71C0EC00A8FD99 /* Sources */,
 				448E01BF2D71C0EC00A8FD99 /* Frameworks */,
 				448E01C02D71C0EC00A8FD99 /* Resources */,
+				44B393E62D76DC9400C2A116 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -234,9 +246,8 @@
 			);
 			name = MatchMaking;
 			packageProductDependencies = (
-				44D584B92D75E78700932A95 /* Alamofire */,
-				44D584BB2D75E78700932A95 /* AlamofireDynamic */,
 				44D584BE2D75E7B100932A95 /* SDWebImageSwiftUI */,
+				44B393E82D76DD4A00C2A116 /* Alamofire */,
 			);
 			productName = MatchMaking;
 			productReference = 448E01C22D71C0EC00A8FD99 /* MatchMaking.app */;
@@ -311,8 +322,8 @@
 			);
 			mainGroup = 448E01B92D71C0EC00A8FD99;
 			packageReferences = (
-				44D584B82D75E78700932A95 /* XCRemoteSwiftPackageReference "Alamofire" */,
 				44D584BD2D75E7B100932A95 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+				44B393E72D76DD4A00C2A116 /* XCRemoteSwiftPackageReference "Alamofire" */,
 			);
 			productRefGroup = 448E01C32D71C0EC00A8FD99 /* Products */;
 			projectDirPath = "";
@@ -575,6 +586,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = com.shop.com.MatchMaking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -701,9 +713,9 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		44D584B82D75E78700932A95 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+		44B393E72D76DD4A00C2A116 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/Alamofire/Alamofire";
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 5.10.2;
@@ -720,15 +732,10 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		44D584B92D75E78700932A95 /* Alamofire */ = {
+		44B393E82D76DD4A00C2A116 /* Alamofire */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 44D584B82D75E78700932A95 /* XCRemoteSwiftPackageReference "Alamofire" */;
+			package = 44B393E72D76DD4A00C2A116 /* XCRemoteSwiftPackageReference "Alamofire" */;
 			productName = Alamofire;
-		};
-		44D584BB2D75E78700932A95 /* AlamofireDynamic */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 44D584B82D75E78700932A95 /* XCRemoteSwiftPackageReference "Alamofire" */;
-			productName = AlamofireDynamic;
 		};
 		44D584BE2D75E7B100932A95 /* SDWebImageSwiftUI */ = {
 			isa = XCSwiftPackageProductDependency;

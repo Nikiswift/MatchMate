@@ -37,6 +37,7 @@ struct HeaderTopView: View {
         HStack {
             if handleBack {
                 Image(systemName: "chevron.backward")
+                    .foregroundColor(.shaadiPrimary)
                     .setContentBaseProperty(size: trailImageSize)
                     .onTapGesture {
                         onBack()

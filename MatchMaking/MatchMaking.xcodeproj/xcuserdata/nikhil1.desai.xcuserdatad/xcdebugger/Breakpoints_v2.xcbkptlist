@@ -7,150 +7,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "2D3A9A58-B32E-4524-B3F1-2D27E791540F"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MatchMaking/Repository/Repository.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "42"
-            endingLineNumber = "42"
-            landmarkName = "saveResponseData(model:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "2D3A9A58-B32E-4524-B3F1-2D27E791540F - 1b4e950080df7b91"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MatchMaking.Repository.saveResponseData(model: &#x3c4;_0_0) -&gt; ()"
-                  moduleName = "MatchMaking"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Repository/Repository.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
-                  offsetFromSymbolStart = "360">
-               </Location>
-               <Location
-                  uuid = "2D3A9A58-B32E-4524-B3F1-2D27E791540F - 1b4e950080df7a76"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MatchMaking.Repository.saveResponseData(model: &#x3c4;_0_0) -&gt; ()"
-                  moduleName = "MatchMaking"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Repository/Repository.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "41"
-                  endingLineNumber = "41"
-                  offsetFromSymbolStart = "360">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "827C5CA7-D1E2-49C5-8D29-1C055FE1777F"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MatchMaking/Repository/Repository.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "44"
-            endingLineNumber = "44"
-            landmarkName = "saveResponseData(model:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "827C5CA7-D1E2-49C5-8D29-1C055FE1777F - 1b4e950080df7a57"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MatchMaking.Repository.saveResponseData(model: &#x3c4;_0_0) -&gt; ()"
-                  moduleName = "MatchMaking"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Repository/Repository.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "42"
-                  endingLineNumber = "42"
-                  offsetFromSymbolStart = "808">
-               </Location>
-               <Location
-                  uuid = "827C5CA7-D1E2-49C5-8D29-1C055FE1777F - 1b4e950080df7a34"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MatchMaking.Repository.saveResponseData(model: &#x3c4;_0_0) -&gt; ()"
-                  moduleName = "MatchMaking"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Repository/Repository.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "43"
-                  endingLineNumber = "43"
-                  offsetFromSymbolStart = "808">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "56F421FF-4565-41D1-8CA6-01AD08B1BFB6"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MatchMaking/Repository/Repository.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
-            landmarkName = "saveResponseData(model:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "56F421FF-4565-41D1-8CA6-01AD08B1BFB6 - 1b4e950080df7bd3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MatchMaking.Repository.saveResponseData(model: &#x3c4;_0_0) -&gt; ()"
-                  moduleName = "MatchMaking"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Repository/Repository.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "38"
-                  endingLineNumber = "38"
-                  offsetFromSymbolStart = "124">
-               </Location>
-               <Location
-                  uuid = "56F421FF-4565-41D1-8CA6-01AD08B1BFB6 - 1b4e950080df7bb0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "MatchMaking.Repository.saveResponseData(model: &#x3c4;_0_0) -&gt; ()"
-                  moduleName = "MatchMaking"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Repository/Repository.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "39"
-                  endingLineNumber = "39"
-                  offsetFromSymbolStart = "124">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "BEC05B3D-F86B-4ACB-B712-DFFD98ACCD11"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -355,22 +211,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "34CE2F82-94DB-451F-B2AA-A961B0FDE488"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MatchMaking/Repository/Repository.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "41"
-            endingLineNumber = "41"
-            landmarkName = "saveResponseData(model:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "7C5FF297-42D3-4291-8EB8-E8F6C8CF0ACA"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -504,10 +344,42 @@
             filePath = "MatchMaking/Views/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "51"
-            endingLineNumber = "51"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
             landmarkName = "body"
             landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D6FFD148-B7A9-46B1-8F6E-AEF0354EBF7A - 6b34cfe07d103f17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in MatchMaking.ContentView.body.getter : some"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "D6FFD148-B7A9-46B1-8F6E-AEF0354EBF7A - 6b34cfe07d103f17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in MatchMaking.ContentView.body.getter : some"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -609,84 +481,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "62A458AE-128D-42E1-8305-3B64F7313478"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MatchMaking/Views/ContentView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "body"
-            landmarkType = "24">
-            <Locations>
-               <Location
-                  uuid = "62A458AE-128D-42E1-8305-3B64F7313478 - dd3e1309b0a0d4bb"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(MatchMaking.HeaderView, SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt;&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in MatchMaking.ContentView.body.getter : some"
-                  moduleName = "MatchMaking"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Views/ContentView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "20"
-                  endingLineNumber = "20"
-                  offsetFromSymbolStart = "496">
-               </Location>
-               <Location
-                  uuid = "62A458AE-128D-42E1-8305-3B64F7313478 - 42d120eb1c0d959f"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(MatchMaking.HeaderView, SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt;&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in MatchMaking.ContentView.body.getter : some"
-                  moduleName = "MatchMaking"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Views/ContentView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "20"
-                  endingLineNumber = "20"
-                  offsetFromSymbolStart = "296">
-               </Location>
-               <Location
-                  uuid = "62A458AE-128D-42E1-8305-3B64F7313478 - d390af16825969d5"
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Int, SwiftUI.Binding&lt;MatchMaking.Results&gt;) -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt; in closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(MatchMaking.HeaderView, SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt;&gt;)&gt; in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt; in MatchMaking.ContentView.body.getter : some"
-                  moduleName = "MatchMaking"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Views/ContentView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "1328">
-               </Location>
-               <Location
-                  uuid = "62A458AE-128D-42E1-8305-3B64F7313478 - ef8fff08785b59e"
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Int) -&gt; () in closure #1 (Swift.Int, SwiftUI.Binding&lt;MatchMaking.Results&gt;) -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt; in closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(MatchMaking.HeaderView, SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt;&gt;)&gt; in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt; in MatchMaking.ContentView.body.getter : some"
-                  moduleName = "MatchMaking"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Views/ContentView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "72">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "D2F215ED-9EFB-4E38-86FA-9D46B604081D"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -729,68 +523,35 @@
                   endingLineNumber = "20"
                   offsetFromSymbolStart = "268">
                </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E6864E28-17E2-4C51-BF7D-CF46AAB32FFF"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MatchMaking/Views/ContentView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "body"
-            landmarkType = "24">
-            <Locations>
                <Location
-                  uuid = "E6864E28-17E2-4C51-BF7D-CF46AAB32FFF - ef8fff08785b5fd"
+                  uuid = "D2F215ED-9EFB-4E38-86FA-9D46B604081D - 5b4d25b079f82639"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Int) -&gt; () in closure #1 (Swift.Int, SwiftUI.Binding&lt;MatchMaking.Results&gt;) -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt; in closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(MatchMaking.HeaderView, SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt;&gt;)&gt; in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt; in MatchMaking.ContentView.body.getter : some"
+                  symbolName = "closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0)&gt;&gt; in MatchMaking.MateProfileDetails.body.getter : some"
                   moduleName = "MatchMaking"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/MateProfileDetails.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23"
-                  offsetFromSymbolStart = "84">
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "256">
                </Location>
                <Location
-                  uuid = "E6864E28-17E2-4C51-BF7D-CF46AAB32FFF - 733d2c5cfe245e06"
+                  uuid = "D2F215ED-9EFB-4E38-86FA-9D46B604081D - f414b964f5a06a7"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Int) -&gt; () in closure #1 (Swift.Int, SwiftUI.Binding&lt;MatchMaking.Results&gt;) -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt; in closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(MatchMaking.HeaderView, SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt;&gt;)&gt; in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt; in MatchMaking.ContentView.body.getter : some"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0)&gt;&gt; in MatchMaking.MateProfileDetails.body.getter : some"
                   moduleName = "MatchMaking"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/MateProfileDetails.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "23"
-                  endingLineNumber = "23"
-                  offsetFromSymbolStart = "84">
-               </Location>
-               <Location
-                  uuid = "E6864E28-17E2-4C51-BF7D-CF46AAB32FFF - 733d2c5cfe245e27"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Int) -&gt; () in closure #1 (Swift.Int, SwiftUI.Binding&lt;MatchMaking.Results&gt;) -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt; in closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(MatchMaking.HeaderView, SwiftUI.LazyVStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;(offset: Swift.Int, element: SwiftUI.Binding&lt;MatchMaking.Results&gt;)&gt;, Swift.Int, SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, MatchMaking.MateProfileDetails&gt;&gt;&gt;)&gt; in closure #1 (SwiftUI.ScrollViewProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ScrollViewReader&lt;&lt;&lt;opaque return type of SwiftUI.View.bottomToTopGradient(colors: Swift.Array&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt; in MatchMaking.ContentView.body.getter : some"
-                  moduleName = "MatchMaking"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nikhil1.desai/Desktop/MatchMaking/MatchMaking/Views/ContentView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24"
-                  offsetFromSymbolStart = "84">
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "348">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -805,25 +566,557 @@
             filePath = "MatchMaking/Views/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "54"
-            endingLineNumber = "54"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
             landmarkName = "body"
             landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "80F614A5-DB0B-4717-9194-D946A9697BEE - 1765fa82abaeec8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MatchMaking.ContentView.fetchResponse(paging: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "80F614A5-DB0B-4717-9194-D946A9697BEE - d156894eb322d9a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in MatchMaking.ContentView.fetchResponse(paging: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "80F614A5-DB0B-4717-9194-D946A9697BEE - df16823a5841e888"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MatchMaking.ContentView.fetchResponse(paging: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "80F614A5-DB0B-4717-9194-D946A9697BEE - 48f56c2e4adb0255"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in MatchMaking.ContentView.body.getter : some"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "448">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "FB559EE6-31F7-4A38-87C4-64DCB1ED7BFE"
+            uuid = "BA813794-B290-4245-AA6D-C086A98C93AE"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "MatchMaking/Utils/NetworkConnectionHelper.swift"
+            filePath = "MatchMaking/Views/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "startNetworkReachabilityObserver()"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "fetchResponse(paging:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA813794-B290-4245-AA6D-C086A98C93AE - 34899f05e7c6d464"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MatchMaking.ContentView.defaultView() -&gt; some"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "BA813794-B290-4245-AA6D-C086A98C93AE - 1765fa82abaeed65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MatchMaking.ContentView.fetchResponse(paging: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "BA813794-B290-4245-AA6D-C086A98C93AE - d156894eb322d84d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in MatchMaking.ContentView.fetchResponse(paging: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "BA813794-B290-4245-AA6D-C086A98C93AE - df16823a5841e963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MatchMaking.ContentView.fetchResponse(paging: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "BA813794-B290-4245-AA6D-C086A98C93AE - 1765fa82abaeed65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MatchMaking.ContentView.fetchResponse(paging: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "BA813794-B290-4245-AA6D-C086A98C93AE - bb0c4e4eb0926b64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MatchMaking.ContentView.fetchResponse(paging: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "BA813794-B290-4245-AA6D-C086A98C93AE - df16823a5841e963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MatchMaking.ContentView.fetchResponse(paging: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "BA813794-B290-4245-AA6D-C086A98C93AE - 40bd6079c325844b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for closure #1 @Sendable () async -&gt; () in MatchMaking.ContentView.fetchResponse(paging: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "BA813794-B290-4245-AA6D-C086A98C93AE - a7c029520e18e561"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MatchMaking.ContentView.fetchResponse(paging: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79384889-D817-4194-9673-BB56F2E0FDF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchMaking/ViewModels/MateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getMatesData(page:loadLoacal:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FF82BEB-556C-4D56-A5E3-E5801B3CE200"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchMaking/ViewModels/MateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "handleNetworkStatus(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5FF82BEB-556C-4D56-A5E3-E5801B3CE200 - e77fc65d6c4a0689"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 (MatchMaking.ReachabilityStatus) -&gt; () in MatchMaking.MateViewModel.handleNetworkStatus(page: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/ViewModels/MateViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "5FF82BEB-556C-4D56-A5E3-E5801B3CE200 - 6d9390925e4988fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 (MatchMaking.ReachabilityStatus) -&gt; () in MatchMaking.MateViewModel.handleNetworkStatus(page: Swift.Int) -&gt; ()"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/ViewModels/MateViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "214416C2-A2A1-473F-914C-2B114BD840DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchMaking/ViewModels/MateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "handleNetworkStatus(page:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09377A97-7A9E-44A7-93AF-22BFA51B5483"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchMaking/ViewModels/MateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getMatesData(page:loadLoacal:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4DF1003-D9E0-4FA0-9F51-C223D0BFB1CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchMaking/Repository/Repository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getResponseData(url:model:isLocalFile:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E4DF1003-D9E0-4FA0-9F51-C223D0BFB1CE - 8f3dd8046939e943"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for MatchMaking.Repository.getResponseData(url: Swift.String, model: &#x3c4;_0_0.Type, isLocalFile: Swift.Bool) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Repository/Repository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "E4DF1003-D9E0-4FA0-9F51-C223D0BFB1CE - cf170d13b7b16d36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for MatchMaking.Repository.getResponseData(url: Swift.String, model: &#x3c4;_0_0.Type, isLocalFile: Swift.Bool) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Repository/Repository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "E4DF1003-D9E0-4FA0-9F51-C223D0BFB1CE - 25aebf463e654551"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MatchMaking.Repository.getResponseData(url: Swift.String, model: &#x3c4;_0_0.Type, isLocalFile: Swift.Bool) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Repository/Repository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "E4DF1003-D9E0-4FA0-9F51-C223D0BFB1CE - 6f160c212834f758"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for MatchMaking.Repository.getResponseData(url: Swift.String, model: &#x3c4;_0_0.Type, isLocalFile: Swift.Bool) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Repository/Repository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38987E58-12E7-4832-A660-BEF7790CD92D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchMaking/Network/ApiServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchPosts(url:model:isLocalFile:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD6D4946-5102-4FA0-A231-FA1CE0E0F8F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchMaking/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DD6D4946-5102-4FA0-A231-FA1CE0E0F8F4 - ebcd87e0dfc54589"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #3 () -&gt; () in MatchMaking.ContentView.body.getter : some"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "DD6D4946-5102-4FA0-A231-FA1CE0E0F8F4 - 2ead2397bc41734c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #3 () -&gt; () in MatchMaking.ContentView.body.getter : some"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "DD6D4946-5102-4FA0-A231-FA1CE0E0F8F4 - 8f5e3e36e1120187"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #3 () -&gt; () in MatchMaking.ContentView.body.getter : some"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Views/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AA9AA73-737D-4E2E-A637-83EFD213AF51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchMaking/Network/ApiServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchRemoteJSON(url:model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7AA9AA73-737D-4E2E-A637-83EFD213AF51 - 7a8a303446ee2fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; () in MatchMaking.ApiServices.fetchRemoteJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.String, model: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Network/ApiServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "7AA9AA73-737D-4E2E-A637-83EFD213AF51 - 7a8a303446ee2fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; () in MatchMaking.ApiServices.fetchRemoteJSON&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.String, model: &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "MatchMaking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikhil1.desai/Downloads/MatchMate-main/MatchMaking/MatchMaking/Network/ApiServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E295D073-60E0-42C3-A858-08105C47BBA9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchMaking/Network/ApiServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "fetchRemoteJSON(url:model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30ADAAE5-A350-46D6-9B63-66B912E2D466"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MatchMaking/Network/ApiServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fetchRemoteJSON(url:model:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

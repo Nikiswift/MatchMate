@@ -30,18 +30,18 @@ final class NetworkConnectionHelper: NSObject {
     
     //MARK: Netowork Rechability Observer
     func startNetworkReachabilityObserver() {
-        reachabilityManager?.startListening { [weak self] status in
-            switch status {
-            case .notReachable:
-                print("No internet connection.")
-                self?.networkStatusPublisher.send(.offline)
-            case .reachable(.ethernetOrWiFi), .reachable(.cellular):
-                print("Internet connection reachable.")
-                self?.networkStatusPublisher.send(.online)
-            case .unknown:
-                print("Internet connection status unknown.")
-            }
-        }
+//        reachabilityManager?.startListening { [weak self] status in
+////            switch status {
+////            case .notReachable:
+////                print("No internet connection.")
+////                self?.networkStatusPublisher.send(.offline)
+////            case .reachable(.ethernetOrWiFi), .reachable(.cellular):
+////                print("Internet connection reachable.")
+////                self?.networkStatusPublisher.send(.online)
+////            case .unknown:
+////                print("Internet connection status unknown.")
+////            }
+//        }
     }
     
     func stopNetworkReachabilityObserver() {
